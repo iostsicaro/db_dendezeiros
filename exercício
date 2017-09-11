@@ -14,4 +14,35 @@ Relacionamento:
   4. Cada comprador deve ter lançado um lance
   5. Cada lance deve ser finalizado por um único vendedor
   
-Nome do projeto:
+Nome do projeto: Treinamento SA
+Contratante: Gerente de Empresa de Treinamentos
+Entidades identificadas:
+  1. Gerente: gerente da empresa
+  2. Cursos Técnicos: produto de venda
+  3. Turmas: conjunto de pessoas que seguem o mesmo curso
+  4. Instrutor: docente dos alunos
+  5. Alunos: indivíduos dos cursos
+  
+Relacionamento:
+  1. Cada gerente deve ter ministrado um ou mais cursos técnicos
+  2. Cada curso técnico deve ter ofertado a uma ou mais turmas
+  3. Cada instrutor deve ter lecionado a uma ou mais turmas
+  4. Cada aluno deve estar vinculado a uma única turma
+
+Nome do projeto: Cadastro de pessoa
+Contratante: Mariana
+Entidades identificadas:
+  1. Fábrica: fornecedores dos produtos
+  2. Produto: objeto de venda
+  3. Compradores: clientes da fábrica e consumidores dos produtos
+  4. Formulários: metódo de cadastro de cliente
+ 
+Relacionamento:
+  1. Cada fábrica deve ter produzido um ou mais produtos
+  2. Cada produto deve ser fabricado por uma única fábrica
+  3. Cada fábrica deve ter vendido um ou mais produtos
+  4. Cada produto deve ser vendido a um ou mais clientes
+  5. Cada cliente deve ser cadastrado por um único formulário
+  6. Cada formulário deve ser preenchido a um ou mais clientes
+  7. Cada cliente deve ter comprado um ou mais produtos
+  
