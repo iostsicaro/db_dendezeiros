@@ -1,0 +1,17 @@
+Nome do projeto: Imóvel
+Contratante: Vendedor de Imóveis
+Entidades identificadas:
+  1. Vendedor: corretor dos imóveis 
+  2. Imóvel: produto de venda
+  3. Anúncio: local de venda dos imóveis
+  4. Comprador: possível compradores de imóveis
+  5. Lance: proposta de preço do comprador
+
+Relacionamento:
+  1. Cada vendedor deve ter ofertado um ou mais anúncios
+  2. Cada anúncio deve ter um ou mais imóveis
+  3. Cada imóvel deve ser comprado por um ou mais compradores
+  4. Cada comprador deve ter lançado um lance
+  5. Cada lance deve ser finalizado por um único vendedor
+  
+Nome do projeto:
